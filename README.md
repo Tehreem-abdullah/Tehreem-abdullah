@@ -53,7 +53,7 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: [tehreem.dev@gmail.com](mailto:tehreem.dev@gmail.com)
+- 📧 Email: [tehreem.dev@gmail.com](mailto:tanitani297@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/tehreem-abdullah-0159b8346](https://www.linkedin.com/in/tehreem-abdullah-0159b8346)
 - 🐦 Twitter: [twitter.com/tehreem_168](https://twitter.com/tehreem_168)
 
