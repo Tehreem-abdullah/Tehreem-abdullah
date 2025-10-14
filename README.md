@@ -53,13 +53,32 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Profile Views
 
-### 🧠 Tehreem's GitHub Stats
-![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=tehreemabdullah&show_icons=true&theme=tokyonight)
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=tehreemabdullah&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="profile views" />
+</p>
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tehreemabdullah&theme=tokyonight&no-frame=true&margin-w=5)
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tehreemabdullah&show_icons=true&theme=tokyonight" alt="Tehreem's GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tehreemabdullah&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tehreemabdullah&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=tehreemabdullah&theme=tokyonight&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+</p>
 
 ---
 
