@@ -55,10 +55,18 @@
 
 ## 📈 GitHub Stats
 
-![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=tehreem168&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tehreem168&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tehreem168&theme=tokyonight)
-![Trophies](https://github-profile-trophy.vercel.app/?username=tehreem168&theme=flat&margin-w=10)
+### 🧠 Tehreem's GitHub Stats
+![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=tehreemabdullah&show_icons=true&theme=tokyonight)
+
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tehreemabdullah&layout=compact&theme=tokyonight)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tehreemabdullah&theme=tokyonight)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tehreemabdullah&theme=tokyonight&no-frame=true&margin-w=5)
+
 
 ---
 
