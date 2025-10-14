@@ -54,6 +54,23 @@
 ---
 
 ## 📈 GitHub Stats
+<!-- Profile views / visitor count -->
+![Profile views](https://komarev.com/ghpvc/?username=tehreem168&color=0e75b6)
+
+<!-- GitHub overall stats -->
+![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=tehreem168&show_icons=true&theme=tokyonight)
+
+<!-- Top languages (compact) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tehreem168&layout=compact&theme=tokyonight)
+
+<!-- Streak stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tehreem168&theme=tokyonight)
+
+<!-- Trophies -->
+![trophy](https://github-profile-trophy.vercel.app/?username=tehreem168&theme=flat)
+
+<!-- Optional: small stats row with icons (compact) -->
+[![GitHub followers](https://img.shields.io/github/followers/tehreem168?label=Follow&style=social)](https://github.com/tehreem168)
 
 ![Tehreem's GitHub stats](https://github-readme-stats.vercel.app/api?username=tehreem168\&show_icons=true\&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tehreem168\&layout=compact\&theme=tokyonight)
