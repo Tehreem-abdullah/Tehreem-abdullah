@@ -25,7 +25,7 @@
 > A simple React-based Islamic app that displays random Hadith from a JSON file.
 
 🛠 **Tech Used:** React.js, CSS, JSX
-📁 [**View Repository**](#)
+📁 [**View Repository**](https://github.com/Tehreem-abdullah/GIAIC_Q3/tree/main/Hadith_app_Challenge-3/hadith_app)
 
 ![Hadith App Preview](images/hadith-app.png)
 
@@ -36,7 +36,7 @@
 > A collection of basic to intermediate Python scripts and mini projects built for practice.
 
 🛠 **Tech Used:** Python, Logic Building, CLI
-📁 [**View Repository**](#)
+📁 [**View Repository**](https://github.com/Tehreem-abdullah/python-projects)
 
 ![Python Projects Preview](images/python-projects.png)
 
@@ -47,7 +47,7 @@
 > A fun collection of coding challenges and mini projects built during late-night learning sessions.
 
 🛠 **Tech Used:** Python, JavaScript, Logic Building
-📁 [**View Repository**](#)
+📁 [**View Repository**](https://github.com/Tehreem-abdullah/coding-night-projects)
 
 ![Coding Night Projects Preview](images/coding-night.png)
 
