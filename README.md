@@ -27,8 +27,6 @@
 🛠 **Tech Used:** React.js, CSS, JSX
 📁 [**View Repository**](https://github.com/Tehreem-abdullah/GIAIC_Q3/tree/main/Hadith_app_Challenge-3/hadith_app)
 
-![Hadith App Preview](images/hadith-app.png)
-
 ---
 
 ### 🐍 Python Projects Collection
@@ -38,8 +36,6 @@
 🛠 **Tech Used:** Python, Logic Building, CLI
 📁 [**View Repository**](https://github.com/Tehreem-abdullah/python-projects)
 
-![Python Projects Preview](images/python-projects.png)
-
 ---
 
 ### 🌙 Coding Night Projects
@@ -48,8 +44,6 @@
 
 🛠 **Tech Used:** Python, JavaScript, Logic Building
 📁 [**View Repository**](https://github.com/Tehreem-abdullah/coding-night-projects)
-
-![Coding Night Projects Preview](images/coding-night.png)
 
 ---
 
