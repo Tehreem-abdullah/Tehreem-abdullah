@@ -60,9 +60,7 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=tehreemabdullah&theme=tokyonight&no-frame=true&margin-w=5" alt="GitHub Trophies" />
-</p>
+ 
 
 ---
 
