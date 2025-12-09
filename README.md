@@ -47,21 +47,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=tehreemabdullah&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="Profile Views" />
 </p>
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tehreemabdullah&show_icons=true&theme=tokyonight" alt="Tehreem's GitHub Stats" />
-</p>
-
-<p align="center">
  
-
 ---
 
 ## 📫 Let's Connect
